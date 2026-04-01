@@ -1,5 +1,4 @@
 # EPIX D4 IP
-Epix D4 IP Driver
 
 _Last Updated: 2026-04-01_
 
