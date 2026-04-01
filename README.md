@@ -20,3 +20,4 @@ Detailed update instructions are available in the [User Manual](https://chauvetp
 
 ### V1.1
 - Improved dimming curve for enhanced color consistency across DMX values and settings
+- [Download here] (Firmware/EpixD4Ip_Firmware_260401.zip)
