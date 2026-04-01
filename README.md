@@ -18,12 +18,13 @@ Download the latest release of KLSTR here: [Epix Mapping Software - KLSTR](https
 
 ## Latest Release
 
+### V1.1
+- Improved dimming curve for enhanced color consistency across DMX values and settings
+- [Download here](https://github.com/Chauvet-Pro/EPIXD4IP/raw/0763c480c1aea3e5b0f325e23bfa572c8372dc9b/Firmware/EpixD4Ip_Firmware_260401.zip)
+
+## Previous Releases
+
 ### V1.0
 - Initial release
 
 ---
-
-## Previous Releases
-### V1.1
-- Improved dimming curve for enhanced color consistency across DMX values and settings
-- [Download here](https://github.com/Chauvet-Pro/EPIXD4IP/raw/0763c480c1aea3e5b0f325e23bfa572c8372dc9b/Firmware/EpixD4Ip_Firmware_260401.zip)
