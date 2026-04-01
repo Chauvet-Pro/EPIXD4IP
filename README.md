@@ -13,7 +13,9 @@ The Epix D4 IP supports firmware updates for feature enhancements and bug fixes.
 
 Detailed update instructions are available in the [User Manual](https://chauvetprofessional.com/product/epix-d4-ip/).
 
-## Software Versions
+Download the latest release of KLSTR here: [Epix Mapping Software - KLSTR] (https://github.com/Chauvet-Pro/EPIXD4IP/releases/download/Software/KLSTR.ctrl-windows_12-01-26.zip).
+
+## Firmware Versions
 
 ### V1.0
 - Initial release
