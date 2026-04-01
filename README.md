@@ -11,7 +11,7 @@ Its rugged, modular design delivers full creative flexibility and industry-leadi
 
 The Epix D4 IP supports firmware updates for feature enhancements and bug fixes. Firmware updates are performed using KLSTR software.
 
-Detailed update instructions are available in the [User Manual](https://www.chauvetprofessional.com/wp-content/uploads/2025/09/EPIX_D4_IP_QRG_ML5_Rev1.pdf?_gl=1*1y49txl*_ga*MjA0NTI1MjY2Ni4xNzYxNTkyOTE4*_ga_L0HHF17CH0*czE3NzUwNTcxNTYkbzIxJGcwJHQxNzc1MDU3MTU2JGo2MCRsMCRoMA..).
+Detailed update instructions are available in the [User Manual](https://chauvetprofessional.com/product/epix-d4-ip/#downloads).
 
 Download the latest release of KLSTR here: [Epix Mapping Software - KLSTR](https://github.com/Chauvet-Pro/EPIXD4IP/releases/download/Software/KLSTR.ctrl-windows_12-01-26.zip).
 
