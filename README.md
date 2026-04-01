@@ -1,4 +1,4 @@
-# EPIX D4 IP
+# ÉPIX D4 IP
 
 ## Firmware
 Firmware files are located in the [Firmware](https://github.com/Chauvet-Pro/EPIXD4IP/tree/main/Firmware) subfolder.
