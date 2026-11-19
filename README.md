@@ -23,5 +23,6 @@ Download the latest release of KLSTR here
 
 ### V1.0
 - Initial release
+- -[Download Here](https://github.com/Chauvet-Pro/EPIXD4IP/raw/refs/heads/main/Firmware/EpixD4Ip_Firmware_260401.zip)
 
 ---
